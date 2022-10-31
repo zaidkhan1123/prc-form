@@ -8,6 +8,7 @@ li{
     height: 500px;
     box-shadow: 5px 10px 8px 10px #888888;
     min-width: 400px;
+    border-radius: 10px;
 }
 .error{
     color: red;
@@ -15,4 +16,5 @@ li{
 
 input{
     text-align: center;
+    border-radius: 10px;
 }
