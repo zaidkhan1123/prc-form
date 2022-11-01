@@ -9,6 +9,7 @@ li{
     box-shadow: 5px 10px 8px 10px #888888;
     min-width: 400px;
     border-radius: 10px;
+
 }
 .error{
     color: red;
